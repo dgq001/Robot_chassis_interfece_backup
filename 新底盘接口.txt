@@ -1,0 +1,16 @@
+机器人服务端对外接口为标准 
+RosBridgeclient
+连接机器人自带热点 密码默认 12345678
+websocketIp端口: 10.7.5.88:9090
+
+对接文档的案例
+
+java:  https://gitee.com/yuzi99url/rosJava
+android:  https://gitee.com/yuzi99url/rosAndroid
+py: https://gitee.com/yuzi99url/rosPython.git
+
+标准案例未对接, 依据案例自行对接文档
+
+c#/ros#: https://github.com/siemens/ros-sharp
+py: https://roslibpy-docs-zh.readthedocs.io/zh/latest/examples.html
+js: https://github.com/RobotWebTools/ros3djs.git
